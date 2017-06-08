@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['katm',['KATM',['../hoko_8h.html#ab602423ab435a35d48cf74f97b5fd0b6',1,'KATM(double H, double B1, double B2):&#160;Hoko1.c'],['../_hoko1_8c.html#ab602423ab435a35d48cf74f97b5fd0b6',1,'KATM(double H, double B1, double B2):&#160;Hoko1.c']]],
+  ['kbl',['KBL',['../hoko_8h.html#a44b08620da5bd57cb0d4df6e8e4ce168',1,'KBL(double far E[], double far E1[]):&#160;Hoko1.c'],['../_hoko1_8c.html#a44b08620da5bd57cb0d4df6e8e4ce168',1,'KBL(double far E[], double far E1[]):&#160;Hoko1.c']]],
+  ['kep_5fto_5flap',['KEP_TO_LAP',['../hoko_8h.html#ab87cc4d703a495fc3bd430c8fe9706b0',1,'KEP_TO_LAP(double A, double I, double w, double DBY, double T, double *IL, double *wL, double *DBYL, double *LL):&#160;Mnklib.c'],['../_mnklib_8c.html#ab87cc4d703a495fc3bd430c8fe9706b0',1,'KEP_TO_LAP(double A, double I, double w, double DBY, double T, double *IL, double *wL, double *DBYL, double *LL):&#160;Mnklib.c']]],
+  ['kepler',['KEPLER',['../hoko_8h.html#a5700fe22e3da20c71b2c3a630379e2e7',1,'KEPLER(double M, double EKC):&#160;Hoko1.c'],['../_hoko1_8c.html#a5700fe22e3da20c71b2c3a630379e2e7',1,'KEPLER(double M, double EKC):&#160;Hoko1.c']]],
+  ['km_5fx',['km_x',['../hoko_8h.html#a011fb690e76f63b0904212af086ca106',1,'km_x(double E0[], int prz, double EK[], int pech):&#160;Hoko4.c'],['../_hoko4_8c.html#a011fb690e76f63b0904212af086ca106',1,'km_x(double E0[], int prz, double EK[], int pech):&#160;Hoko4.c']]],
+  ['koopls',['KOOPLS',['../hoko_8h.html#ae0ae64ae82828569981e550fa1fd0114',1,'KOOPLS(double TM, double far *XL, double far *YL, double far *ZL, double far *XC, double far *YC, double far *ZC):&#160;Hoko0.c'],['../_hoko0_8c.html#ae0ae64ae82828569981e550fa1fd0114',1,'KOOPLS(double TM, double far *XL, double far *YL, double far *ZL, double far *XC, double far *YC, double far *ZC):&#160;Hoko0.c']]],
+  ['kopct',['KOPCT',['../hoko_8h.html#af2a7eb236796197c2ed3a7a6748f8662',1,'KOPCT(double f, double l, double H, double *L):&#160;Mnklib.c'],['../_mnklib_8c.html#af2a7eb236796197c2ed3a7a6748f8662',1,'KOPCT(double f, double l, double H, double *L):&#160;Mnklib.c']]],
+  ['kvazi_5fto_5ft',['KVAZI_TO_T',['../hoko_8h.html#a6b179631ae903ac8751fb506c34ea883',1,'KVAZI_TO_T(double X[], double T, int p):&#160;Mnklib.c'],['../_mnklib_8c.html#a6b179631ae903ac8751fb506c34ea883',1,'KVAZI_TO_T(double X[], double T, int p):&#160;Mnklib.c']]]
+];

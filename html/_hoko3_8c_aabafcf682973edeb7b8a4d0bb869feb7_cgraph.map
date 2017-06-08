@@ -1,0 +1,34 @@
+<map id="PROGNOZ" name="PROGNOZ">
+<area shape="rect" id="node2" href="$hoko_8h.html#acbf51049e6df5aea55c606f9bc10b059" title="I0" alt="" coords="174,171,213,197"/>
+<area shape="rect" id="node3" href="$_hoko3_8c.html#a8bde34be864231ce9f7d0fb4273bf2c9" title="close_prognoz" alt="" coords="140,221,247,248"/>
+<area shape="rect" id="node4" href="$hoko_8h.html#a2b5c59ca729bc9be5060d82e43645be4" title="GEM_input" alt="" coords="150,272,237,299"/>
+<area shape="rect" id="node5" href="$hoko_8h.html#a65eec02eb40f06e954803b7ed78c38b7" title="ST" alt="" coords="174,323,213,349"/>
+<area shape="rect" id="node6" href="$hoko_8h.html#a24d691e6808f2c27d38e16d85fefddb4" title="APPROK" alt="" coords="155,373,232,400"/>
+<area shape="rect" id="node9" href="$hoko_8h.html#ac90007765b860ffff2b87ca2435fa528" title="SKP" alt="" coords="169,563,218,589"/>
+<area shape="rect" id="node10" href="$hoko_8h.html#a5700fe22e3da20c71b2c3a630379e2e7" title="KEPLER" alt="" coords="298,563,373,589"/>
+<area shape="rect" id="node11" href="$hoko_8h.html#ad707da838e54063c3245b059f7bdce3a" title="LBK" alt="" coords="312,715,359,741"/>
+<area shape="rect" id="node15" href="$hoko_8h.html#af990f48cd17d88ef2ca8e23770b411d6" title="sign" alt="" coords="170,664,217,691"/>
+<area shape="rect" id="node16" href="$_hoko3_8c.html#a562859dca7a797142ea7d3086213c64a" title="FORCE" alt="" coords="160,424,227,451"/>
+<area shape="rect" id="node31" href="$hoko_8h.html#a13665c1f0c7852dd90d8f0876e4f450f" title="GHCK" alt="" coords="164,715,223,741"/>
+<area shape="rect" id="node33" href="$hoko_8h.html#ad53c4b6e404260d4d9ba67a635ed5f5f" title="track" alt="" coords="168,765,219,792"/>
+<area shape="rect" id="node7" href="$_hoko0_8c.html#ae0ae64ae82828569981e550fa1fd0114" title="KOOPLS" alt="" coords="297,5,373,32"/>
+<area shape="rect" id="node8" href="$_hoko0_8c.html#a267ea923b051d0ccc3c27d3ef1ea5d2e" title="UV" alt="" coords="315,56,355,83"/>
+<area shape="rect" id="node12" href="$_hoko2_8c.html#a64d1a1e1c04efa4f51c33b75a6d1471c" title="FINC2" alt="" coords="306,664,365,691"/>
+<area shape="rect" id="node13" href="$hoko_8h.html#ae4878b1bb487b187e376d9d5435560d5" title="HANSEN" alt="" coords="424,461,500,488"/>
+<area shape="rect" id="node14" href="$_hoko1_8c.html#a5dcb391e62597b4f5b76b300ae92b187" title="XNEWC1" alt="" coords="548,461,624,488"/>
+<area shape="rect" id="node17" href="$hoko_8h.html#a3ef0296b7b611677fc9649a7ff5d6ffb" title="F107KP" alt="" coords="301,208,370,235"/>
+<area shape="rect" id="node18" href="$hoko_8h.html#abd182822fa11612d3f71ab2ccb751e4e" title="C202" alt="" coords="309,259,361,285"/>
+<area shape="rect" id="node19" href="$hoko_8h.html#af669c717772296fa6079abda0b5bceec" title="QPRT" alt="" coords="307,360,364,387"/>
+<area shape="rect" id="node21" href="$hoko_8h.html#a26d5a3d2bb4885c7164364052595a33f" title="REZ" alt="" coords="312,461,359,488"/>
+<area shape="rect" id="node25" href="$hoko_8h.html#a16b056266f46f9286e5cf3ef7dde2676" title="LS" alt="" coords="316,411,355,437"/>
+<area shape="rect" id="node26" href="$hoko_8h.html#ab602423ab435a35d48cf74f97b5fd0b6" title="KATM" alt="" coords="306,309,365,336"/>
+<area shape="rect" id="node28" href="$hoko_8h.html#a4b30c1cf71663bb83992ae03e9df75e4" title="ALFDEL" alt="" coords="300,512,371,539"/>
+<area shape="rect" id="node29" href="$hoko_8h.html#a5fe58cd958b16b745441baa9d202f3e5" title="SHADOW" alt="" coords="295,107,376,133"/>
+<area shape="rect" id="node30" href="$hoko_8h.html#aad115abeed1d119ec0ba3f2eb8441c95" title="ATM" alt="" coords="311,157,360,184"/>
+<area shape="rect" id="node20" href="$_hoko1_8c.html#acbf51049e6df5aea55c606f9bc10b059" title="I0" alt="" coords="443,360,481,387"/>
+<area shape="rect" id="node22" href="$hoko_8h.html#afb013120a5cdcfeb592d957959d3c89c" title="FINC" alt="" coords="437,411,487,437"/>
+<area shape="rect" id="node23" href="$_hoko1_8c.html#a2974c5b41a9fc851a452b289f3141582" title="BIN" alt="" coords="565,411,607,437"/>
+<area shape="rect" id="node24" href="$_hoko1_8c.html#af990f48cd17d88ef2ca8e23770b411d6" title="sign" alt="" coords="563,335,609,361"/>
+<area shape="rect" id="node27" href="$_hoko1_8c.html#ad207ecae75b75493d60dbac32616af67" title="I1" alt="" coords="443,309,481,336"/>
+<area shape="rect" id="node32" href="$_hoko1_8c.html#a5700fe22e3da20c71b2c3a630379e2e7" title="KEPLER" alt="" coords="298,765,373,792"/>
+</map>
